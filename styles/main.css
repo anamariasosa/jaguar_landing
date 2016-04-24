@@ -1,0 +1,30 @@
+/* line 4, app/sass/main.scss */
+.info_body {
+  background-image: url("../images/bg-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 10, app/sass/main.scss */
+.info_button {
+  background-color: #DB3030;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  margin: 0;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+/* line 20, app/sass/main.scss */
+.info_container {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  margin: 5%;
+  max-width: 600px;
+  padding: 25px;
+}
+/* line 30, app/sass/main.scss */
+.info_deck {
+  line-height: 1.4;
+}
