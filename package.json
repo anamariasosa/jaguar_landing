@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/anamariasosa/jaguar_landing/issues"
   },
-  "homepage": "https://github.com/anamariasosa/jaguar_landing#readme"
+  "homepage": "https://github.com/anamariasosa/jaguar_landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^6.0.1",
+    "gulp-ruby-sass": "^1.1.0"
+  }
 }
