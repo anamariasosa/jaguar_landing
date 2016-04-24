@@ -1,4 +1,7 @@
 ## Jaguar Landing
+
+[screenshot](https://github.com/anamariasosa/jaguar_landing/blob/master/screenshots/home.png?raw=true)
+
 To run this project
 
 ```cd jaguar_landing```
