@@ -2,7 +2,6 @@
 To run this project
 
 ```cd jaguar_landing```
-``` && bower install```
 ```&& npm install```
 
 #### Prerequisites
