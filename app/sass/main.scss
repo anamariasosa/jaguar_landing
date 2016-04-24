@@ -1,0 +1,33 @@
+@import "helpers/variables.scss";
+
+.info {
+  &_body {
+    background-image: url('../images/bg-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  &_button {
+    background-color: $red;
+    border-radius: 5px;
+    color: $white;
+    display: inline-block;
+    margin: 0;
+    padding: 10px 30px;
+    text-decoration: none;
+  }
+
+  &_container {
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 10px;
+    color: $white;
+    font-family: 'Roboto', sans-serif;
+    margin: 5%;
+    max-width: 600px;
+    padding: 25px;
+  }
+
+  &_deck {
+    line-height: 1.4;
+  }
+}
