@@ -1,6 +1,6 @@
 /* line 4, app/sass/main.scss */
 .info_body {
-  background-image: url("../images/bg-image.jpg");
+  background: url("../images/bg-image.jpg") center center fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
